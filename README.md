@@ -4,10 +4,6 @@
 - 📓 I’m currently learning more about Deep Learning and its applications through the TensorFlow framework.
 - ❔ Ask me about how I (a Biologist?!) found an interest for a career in ML and AI.
 - 📍 How to reach me: ujfdusty@gmail.com
-<!--
-**UmbertoFasci/UmbertoFasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
--->
+### Profecient Languages and Frameworks
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
