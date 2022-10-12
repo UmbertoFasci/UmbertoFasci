@@ -1,7 +1,7 @@
 ### Hi there, I'm Umberto
 
 - 📄 I’m currently working on the efficacy of isolating data features to highlight their contribution in a ML model's prediction power.
-- 📓 Certified TensorFlow Developer.
+- 📓 Certified TensorFlow developer currently developing portfolio.
 - ❔ Ask me about how I (a Biologist) found an interest for a career in ML and AI.
 - 📍 How to reach me: ujfdusty@gmail.com
 
