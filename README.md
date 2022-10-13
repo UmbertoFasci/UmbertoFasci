@@ -7,3 +7,4 @@
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56236130" width="60">
 
 ### PORTFOLIO PROJECTS
+<img src="https://github.com/UmbertoFasci/UmbertoFasci/blob/main/DCGAN_1.png" width="200">
