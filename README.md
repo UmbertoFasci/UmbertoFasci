@@ -8,3 +8,4 @@
 
 ### PORTFOLIO PROJECTS
 <img src="https://github.com/UmbertoFasci/UmbertoFasci/blob/main/DCGAN_1.png" width="200">
+<img src="https://github.com/UmbertoFasci/UmbertoFasci/blob/main/Anomaly_Detection.png" width="200">
