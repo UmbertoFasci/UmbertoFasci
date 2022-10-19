@@ -3,12 +3,11 @@ class TensorFlowDeveloper:
 
   def __init__(self):
     self.name = "Umberto Fasci"
-    self.role = "TensorFlow Developer"
-    self.cert = "Certified TensorFlow Developer"
+    self.role = "Certified TensorFlow Developer"
     self.toolbox = ["Python", "TensorFlow", "R", "Jupyter"]
 
   def showcase(self):
-    print("Check out my showcase below, and the rest of my profile.")
+    print("Check out my showcase below, and visit the rest of my profile.")
 
 me = TensorflowDeveloper()
 me.showcase()
