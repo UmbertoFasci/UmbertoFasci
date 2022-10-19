@@ -9,7 +9,7 @@ class TensorFlowDeveloper:
   def showcase(self):
     print("Check out my showcase below, and visit the rest of my profile.")
 
-me = TensorflowDeveloper()
+me = TensorFlowDeveloper()
 me.showcase()
 ```
 
