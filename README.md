@@ -5,6 +5,7 @@ class TensorFlowDeveloper:
     self.name = "Umberto Fasci"
     self.role = "Certified TensorFlow Developer"
     self.toolbox = ["Python", "TensorFlow", "R", "Jupyter"]
+    self.status = "Looking for work."
 
   def showcase(self):
     print("Check out my showcase below, and visit the rest of my profile.")
