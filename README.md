@@ -4,8 +4,7 @@ class TensorFlowDeveloper:
   def __init__(self):
     self.name = "Umberto Fasci"
     self.role = "Certified TensorFlow Developer"
-    self.toolbox = ["Python", "TensorFlow", "R",
-                    "Jupyter", "Bash"]
+    self.toolbox = ["Python", "TensorFlow", "R", "Jupyter", "Bash"]
     self.status = "Looking for work."
 
   def showcase(self):
