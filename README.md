@@ -8,7 +8,7 @@ class TensorFlowDeveloper:
     self.status = "Looking for work."
 
   def showcase(self):
-    print("Check out my showcase below, and visit the rest of my profile.")
+    print("Check out my projects below, and visit the rest of my profile.")
 
 me = TensorFlowDeveloper()
 me.showcase()
