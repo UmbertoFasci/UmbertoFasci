@@ -18,3 +18,4 @@ me.showcase()
 
 
 <img src="https://github.com/UmbertoFasci/Dyson_Swarm_Algorithm/blob/main/Background/gradient_sphere.gif" width="200">
+Dyson Swarm Algorithm Base
