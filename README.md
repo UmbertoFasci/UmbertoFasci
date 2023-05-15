@@ -20,6 +20,6 @@ A Data Scientist searching for the next opportunity to discover, create, and lea
 [![Project](https://img.shields.io/badge/Dyson%20Swarm%20Algorithm-In%20Development-88CE02.svg?style=?style=flat-square)][Project]
 
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
-![Status](https://img.shields.io/badge/Looking%20For%20Work-000000.svg?style=flat-square)
+![Status](https://img.shields.io/badge/Looking%20For%20Work-FF0000.svg?style=flat-square)
 
 [Project]: https://github.com/UmbertoFasci/Dyson_Swarm_Algorithm
