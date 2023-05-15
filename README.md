@@ -16,6 +16,7 @@
 
 A Data Scientist searching for the next opportunity to discover, create, and learn. With over four years of experience working as a Data Scientist in academia, I am now looking to enter the field professionaly.
 
+##### Weekend Project
 [![Project](https://img.shields.io/badge/Dyson%20Swarm%20Algorithm-In%20Development-77AA99.svg?style=?style=for-the-badge)][Project]
 
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
