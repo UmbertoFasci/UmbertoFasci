@@ -1,5 +1,5 @@
-![Python](https://img.shields.io/badge/Python-Veteran-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Veteran-276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Skilled-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Skilled-276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-Training-9558B2.svg?style=flat-square&logo=julia&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Skilled-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
