@@ -16,7 +16,7 @@
 
 A Data Scientist searching for the next opportunity to discover, create, and learn. With over four years of experience working as a Data Scientist in academia, I am now looking to enter the field professionaly.
 
-##### Personal Project
+##### Personal Project:
 [![Project](https://img.shields.io/badge/Dyson%20Swarm%20Algorithm-In%20Development-88CE02.svg?style=?style=flat-square)][Project]
 
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
