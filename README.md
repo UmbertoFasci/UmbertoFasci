@@ -15,7 +15,7 @@
 > _Edward R. Tufte_
 
 
-A Data Scientist searching for the next opportunity to discover, create, and learn. With over four years of experience working as a Data Scientist in academia, I am now looking to enter the field professionaly.
+A Data Scientist searching for the next opportunity to discover, create, and learn. With over four years of experience working as a Data Scientist in academia, I am now looking to enter the field professionally.
 
 ##### Active Projects:
 [![Project1](https://img.shields.io/badge/Dyson%20Swarm%20Algorithm-In%20Development-88CE02.svg?style=?style=flat-square)][Project1]
