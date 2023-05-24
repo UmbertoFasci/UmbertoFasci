@@ -26,3 +26,7 @@ A Data Scientist searching for the next opportunity to discover, create, and lea
 
 [Project1]: https://github.com/UmbertoFasci/Dyson_Swarm_Algorithm
 [Project2]: https://github.com/UmbertoFasci/Thesis_2023
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
