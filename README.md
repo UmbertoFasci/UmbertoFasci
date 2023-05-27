@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorlist=(3,8)&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=(0,2,2,5,30)&height=1)
 
 ![Python](https://img.shields.io/badge/Python-Skilled-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-Skilled-276DC3.svg?style=flat-square&logo=r&logoColor=white)
@@ -30,5 +30,5 @@ A Data Scientist searching for the next opportunity to discover, create, and lea
 [Project2]: https://github.com/UmbertoFasci/Thesis_2023
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=(3,8)&height=70&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(0,2,2,5,30)&height=70&section=footer"/>
 </p>
