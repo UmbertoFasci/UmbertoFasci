@@ -10,8 +10,6 @@
 ![Emacs](https://img.shields.io/badge/Emacs-Daily%20Driver-7F5AB6.svg?style=flat-square&logo=gnuemacs&logoColor=white)
 ![Org](https://img.shields.io/badge/Org%20Mode-Bliss-77AA99.svg?style=flat-square&logo=org&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmbertoFasci&theme=dark&hide_border=true" height=200 align="right"/>
-
 <!--- 
 <img src="https://github.com/UmbertoFasci/Dyson_Swarm_Algorithm/blob/main/Background/gradient_sphere.gif" width=400 align="right" />
 -->
