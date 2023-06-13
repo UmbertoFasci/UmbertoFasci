@@ -7,6 +7,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Skilled-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-Fluent-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-Daily%20Driver-7F5AB6.svg?style=flat-square&logo=gnuemacs&logoColor=white)
 ![Org](https://img.shields.io/badge/Org%20Mode-Bliss-77AA99.svg?style=flat-square&logo=org&logoColor=white)
 
