@@ -4,7 +4,7 @@
 ![R](https://img.shields.io/badge/R-Skilled-276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Skilled-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-Training-9558B2.svg?style=flat-square&logo=julia&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Skilled-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Fluent-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-Fluent-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
