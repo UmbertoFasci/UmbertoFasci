@@ -26,11 +26,14 @@ A Data Scientist searching for the next opportunity to discover, create, and lea
 [![Project1](https://img.shields.io/badge/USAID%20Price%20Prediction-In%20Development-88CE02.svg?style=?style=flat-square)][Project1]
 [![Project2](https://img.shields.io/badge/Thesis-Active-276DC3.svg?style=?style=flat-square)][Project2]
 
+[![Website](https://img.shields.io/badge/Personal%20Website-In%20Development-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
+
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Looking%20For%20Work-FF0000.svg?style=flat-square)
 
 [Project1]: https://github.com/UmbertoFasci/Supply-Chain-Pricing-USAID
 [Project2]: https://github.com/UmbertoFasci/Thesis_2023
+[Website]: https://umbertofasci.github.io/
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=(2,2,30)&height=70&section=footer"/>
