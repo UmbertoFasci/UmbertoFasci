@@ -31,7 +31,7 @@ A Data Scientist searching for the next opportunity to discover, create, and lea
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Looking%20For%20Work-FF0000.svg?style=flat-square)
 
-[Project1]: https://github.com/UmbertoFasci/Supply-Chain-Pricing-USAID
+[Project1]: https://umbertofasci.github.io/Projects/PricePredict.html
 [Project2]: https://github.com/UmbertoFasci/Thesis_2023
 [Website]: https://umbertofasci.github.io/
 
