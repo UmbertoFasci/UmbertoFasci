@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=(2,2,30)&height=1)
 
-![](https://img.shields.io/badge/Python-Skilled-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Skilled-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-Skilled-276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Skilled-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-Training-9558B2.svg?style=flat-square&logo=julia&logoColor=white)
