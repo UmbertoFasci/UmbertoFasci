@@ -14,8 +14,6 @@
 ![Org](https://img.shields.io/badge/Org%20Mode-Bliss-77AA99.svg?style=flat-square&logo=org&logoColor=white)
 
 
-<img src="https://github.com/UmbertoFasci/UmbertoFasci/blob/main/EXAMPLE-2.png" width=400 align="right" />
-
 > “What about confusing clutter? Information overload? Doesn't data have to be "boiled down" and "simplified"? These common questions miss the point, for the quantity of detail is an issue completely separate from the difficulty of reading. Clutter and confusion are failures of design, not attributes of information.” 
 > 
 > _Edward R. Tufte_
