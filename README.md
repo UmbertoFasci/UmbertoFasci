@@ -23,7 +23,7 @@ A Data Scientist searching for the next opportunity to discover, create, and lea
 
 [![Project2](https://img.shields.io/badge/Thesis-Active-276DC3.svg?style=flat-square)][Project2]
 
-[![Website](https://img.shields.io/badge/Portfolio%20Website-Transcribing%20Parkinson%20Progression%20Prediction-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
+[![Website](https://img.shields.io/badge/Portfolio%20Website-Parkinson's%20Hyperparameter%20Tuning-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
 
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Looking%20For%20Work-FF0000.svg?style=flat-square)
