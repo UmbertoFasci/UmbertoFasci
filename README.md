@@ -13,7 +13,7 @@
 ![Emacs](https://img.shields.io/badge/Emacs-Daily%20Driver-7F5AB6.svg?style=flat-square&logo=gnuemacs&logoColor=white)
 ![Org](https://img.shields.io/badge/Org%20Mode-Bliss-77AA99.svg?style=flat-square&logo=org&logoColor=white)
 
-![OS](https://img.shields.io/badge/openSUSE%20Tumbleweed-Daily%20Driver-73ba25.svg?style=flat-square&logo=opensuse&logoColor=white)
+![OS](https://img.shields.io/badge/openSUSE%20Leap-Daily%20Driver-73ba25.svg?style=flat-square&logo=opensuse&logoColor=white)
 
 
 
