@@ -26,7 +26,7 @@ A Machine Learning Engineer searching for the next opportunity to discover, crea
 
 [![Website](https://img.shields.io/badge/Portfolio%20Website-Parkinson's%20Hyperparameter%20Tuning-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
 
-![Skill](https://img.shields.io/badge/Technical%20Engineer-000000.svg?style=flat-square)
+![Skill](https://img.shields.io/badge/Lead%20Technical%20Engineer-000000.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Full%20Time-FF0000.svg?style=flat-square)
 
 [Website]: https://umbertofasci.github.io/
