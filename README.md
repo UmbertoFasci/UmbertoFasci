@@ -13,7 +13,7 @@
 ![Emacs](https://img.shields.io/badge/Emacs-Daily%20Driver-7F5AB6.svg?style=flat-square&logo=gnuemacs&logoColor=white)
 ![Org](https://img.shields.io/badge/Org%20Mode-Bliss-77AA99.svg?style=flat-square&logo=org&logoColor=white)
 
-![OS](https://img.shields.io/badge/Arch-Daily%20Driver-0079C1.svg?style=flat-square&logo=archlinux&logoColor=white)
+![OS](https://img.shields.io/badge/Arch-Daily%20Driver-1793D1.svg?style=flat-square&logo=archlinux&logoColor=white)
 
 
 > “What about confusing clutter? Information overload? Doesn't data have to be "boiled down" and "simplified"? These common questions miss the point, for the quantity of detail is an issue completely separate from the difficulty of reading. Clutter and confusion are failures of design, not attributes of information.” 
