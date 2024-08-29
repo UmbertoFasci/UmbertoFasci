@@ -20,9 +20,6 @@
 > 
 > _Edward R. Tufte_
 
-
-A Machine Learning Engineer searching for the next opportunity to discover, create, and learn. With over four years of experience working as in Applied Machine Learning in academia, I am now looking to enter the field professionally.
-
 [![Website](https://img.shields.io/badge/Portfolio%20Website-Parkinson's%20Hyperparameter%20Tuning-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
 
 ![Skill](https://img.shields.io/badge/Integrated%20Engineer-000000.svg?style=flat-square)
