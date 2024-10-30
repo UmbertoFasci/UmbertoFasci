@@ -15,7 +15,7 @@
 > 
 > _Edward R. Tufte_
 
-[![Website](https://img.shields.io/badge/Portfolio%20Website-Parkinson's%20Hyperparameter%20Tuning-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
+[![Website](https://img.shields.io/badge/Portfolio%20Website-Ice%20Games%20Global%20Sales%20Analysis-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
 
 ![Skill](https://img.shields.io/badge/Integrated%20Engineer-000000.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Full%20Time-FF0000.svg?style=flat-square)
