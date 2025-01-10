@@ -17,7 +17,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio%20Website-Ice%20Games%20Global%20Sales%20Analysis-181717.svg?style=flat-square&logo=github&logoColor=white)][Website]
 
-![Skill](https://img.shields.io/badge/Integrated%20Engineer-000000.svg?style=flat-square)
+![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
 ![Status](https://img.shields.io/badge/Full%20Time-FF0000.svg?style=flat-square)
 
 [Website]: https://umbertofasci.github.io/
