@@ -1,10 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-Skilled-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Skilled-276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Skilled-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-Fluent-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-Fluent-75AADB.svg?style=flat-square&logo=rstudio&logoColor=white)
 
 ![OS](https://img.shields.io/badge/Fedora-Daily%20Driver-51A2DA.svg?style=flat-square&logo=fedora&logoColor=white)
 
