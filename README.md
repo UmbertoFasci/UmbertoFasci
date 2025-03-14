@@ -3,7 +3,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
-![OS](https://img.shields.io/badge/Fedora-Daily%20Driver-51A2DA.svg?style=flat-square&logo=fedora&logoColor=white)
+![OS](https://img.shields.io/badge/Arch-Daily%20Driver-1793D1.svg?style=flat-square&logo=archlinux&logoColor=white)
 
 
 > “What about confusing clutter? Information overload? Doesn't data have to be "boiled down" and "simplified"? These common questions miss the point, for the quantity of detail is an issue completely separate from the difficulty of reading. Clutter and confusion are failures of design, not attributes of information.” 
