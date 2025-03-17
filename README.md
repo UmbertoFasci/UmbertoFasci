@@ -1,5 +1,5 @@
-![Python](https://img.shields.io/badge/Python-Skilled-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Skilled-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
