@@ -5,10 +5,9 @@
 
 ![OS](https://img.shields.io/badge/Arch-Daily%20Driver-1793D1.svg?style=flat-square&logo=archlinux&logoColor=white)
 
-
-> “What about confusing clutter? Information overload? Doesn't data have to be "boiled down" and "simplified"? These common questions miss the point, for the quantity of detail is an issue completely separate from the difficulty of reading. Clutter and confusion are failures of design, not attributes of information.” 
+>Far better an approximate answer to the right question, which is often vague, than the exact answer to the wrong question, which can always be made precise.
 > 
-> _Edward R. Tufte_
+> _John Tukey_
 
 
 ![Skill](https://img.shields.io/badge/Data%20Scientist-000000.svg?style=flat-square)
