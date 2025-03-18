@@ -3,7 +3,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
-![OS](https://img.shields.io/badge/Arch-Daily%20Driver-1793D1.svg?style=flat-square&logo=archlinux&logoColor=white)
+![OS](https://img.shields.io/badge/Arch-BTW-1793D1.svg?style=flat-square&logo=archlinux&logoColor=white)
 
 >Far better an approximate answer to the right question, which is often vague, than the exact answer to the wrong question, which can always be made precise.
 > 
